@@ -1,6 +1,6 @@
 mgmt_ip: 10.1.0.2222sdfaaasfda
 vlans:
-  red:
+ fadsa red:
     id: 10
   blue:
     id: 20
